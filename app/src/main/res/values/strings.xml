@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="Header">GeoCities</string>
+    <string name="Q1">Q1: What is the capital city of Egypt?</string>
+    <string name="q1r1">Alexandria</string>
+    <string name="q1r2">Cairo</string>
+    <string name="q1r3">Mansoura</string>
+    <string name="q1r4">Aswan</string>
+    <string name="Q2">Q2: Which of these are cities in Italy?</string>
+    <string name="q2r1">Rome</string>
+    <string name="q2r2">Milan</string>
+    <string name="Q3">Q3: What is the capital city of Peru?</string>
+    <string name="q3r1">Lima</string>
+    <string name="q3r2">Cusco</string>
+    <string name="Q4">Q4: What is the capital city of China?</string>
+    <string name="q4r2">Beijing</string>
+    <string name="q4r1">Shanghai</string>
+    <string name="edit_text_answer">Enter answer here</string>
+    <string name="q2r3">Brussels</string>
+    <string name="submit__btn">Submit</string>
+    <string name="score">Score</string>
+    <string name="score_display">0</string>
+</resources>
